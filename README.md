@@ -3,7 +3,7 @@ Mini projet
 ## presentation du mini projet 
 Ceci est les objectifs et la presentation su projet
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samar-guicha/Mini_Projet_test/main?filepath=index.ipynb)
 
 ## :open_file_folder:DataSet
 
